@@ -10,6 +10,7 @@ mostrare due totali (il numero di todo rimasti e il numero di todo totale)
 cancellare dei todo
 validazione: non si può aggiungere un todo con descrizione vuota o nulla
 validazione: non si può aggiungere un todo con descrizione uguale ad una già esitente
+
 Requisiti opzionali (bonus)
 il pulsante Show completed permette di alternare la vista in cui si vedono tutti i todo a quella in cui si vedono solo quelli "da completare". La vista di default deve essere la seconda
 quando un todo viene checkato dalla vista filtrata, non scompare subito ma dopo un delay di 500ms (setTimeout)
